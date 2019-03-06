@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml:3:2-21
+		INJECTED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml:3:46-71
+		INJECTED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml:3:22-45
+		INJECTED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml:4:2-20:16
+	android:label
+		ADDED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml:4:45-77
+	android:icon
+		ADDED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml:4:15-44
+receiver#com.terry.widgetProvider
+ADDED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml:8:3-16:14
+	android:name
+		ADDED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml:8:13-43
+meta-data#android.appwidget.provider
+ADDED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml:9:4-10:60
+	android:resource
+		ADDED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml:10:5-47
+	android:name
+		ADDED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml:9:15-56
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE+action:name:com.terry.action.widget.click
+ADDED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml:11:4-15:20
+action#com.terry.action.widget.click
+ADDED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml:12:13-57
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml:13:5-72
+	android:name
+		ADDED from /Users/tianfeifei/AndroidStudioProjects/android-ndk/widget/app/src/main/AndroidManifest.xml:13:13-69

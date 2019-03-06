@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, widgetProvider!</string>
+    <string name="app_name">桌面组件</string>
+<string name="load">点我变另外的字</string>
+<string name="change">点击变回来</string>
+</resources>
